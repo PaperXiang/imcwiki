@@ -16,6 +16,8 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/gongmin传',
       },
     ],
+  },
+  {
     title: '逆天乐子',
     items: [
       {
