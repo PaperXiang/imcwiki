@@ -7,7 +7,7 @@ hero:
   text: 非官方乐子 Wiki
   tagline: 基于 VitePress 的前端导航页面模板
   image:
-    src: /logo.png
+    src: /imc.png
     alt: IMC群头像
   actions:
     - text: Leziwiki
