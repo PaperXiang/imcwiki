@@ -16,5 +16,14 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/gongmin传',
       },
     ],
+    title: '逆天乐子',
+    items: [
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'Arvuelut传',
+        desc: 'nv权姐',
+        link: '/imcwiki/article/ar传',
+      },
+    ],
   },
 ]
