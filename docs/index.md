@@ -3,15 +3,15 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: 茂茂的
-  text: 前端导航模板
-  tagline: 基于 VitePress 的个人前端导航页面模板
+  name: IMC的
+  text: 非官方乐子 Wiki
+  tagline: 基于 VitePress 的前端导航页面模板
   image:
     src: /logo.png
-    alt: 茂茂物语
+    alt: IMC群头像
   actions:
     - text: 茂茂物语
-      link: https://notes.fe-mm.com
+      link: https://paperxiang.github.io/imcwiki
     - text: 前端导航
       link: /nav/
       theme: alt
