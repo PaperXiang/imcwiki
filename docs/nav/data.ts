@@ -12,7 +12,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'gongmin正传',
-        desc: '难评',
+        desc: '心态硬汉',
         link: '/imcwiki/article/gongmin传.md',
       },
     ],
