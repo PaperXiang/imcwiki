@@ -36,6 +36,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'DDoS BOSS',
         link: '/imcwiki/article/赵子豪传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'HrkII传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/hkrii传',
+      },
     ],
   },
 ]
