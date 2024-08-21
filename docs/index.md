@@ -19,7 +19,7 @@ features:
   - icon: 📖
     title: gongmin家族
     details: 刚出炉的乐子
-    link: https://paperxiang.github.io/imcwiki/
+    link: https://paperxiang.github.io/imcwiki/article/gongmin传
     linkText: 乐
 ---
 
