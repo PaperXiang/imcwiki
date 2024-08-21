@@ -1,4 +1,4 @@
-# vitepress-nav-template
+# IMC Unofficial Lezi-wiki
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/maomao1996/picture/main/vitepress-nav-template/home.webp" alt="home" />
