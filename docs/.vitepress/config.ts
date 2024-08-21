@@ -72,8 +72,8 @@ export default defineConfig({
     comment: {
       repo: 'PaperXiang/imcwiki',
       repoId: 'R_kgDOMl3Lsw',
-      category: 'General',
-      categoryId: 'DIC_kwDOMl3Ls84Ch0OK',
+      category: 'Announcements',
+      categoryId: 'DIC_kwDOMl3Ls84Ch0OJ',
     },
   },
 
