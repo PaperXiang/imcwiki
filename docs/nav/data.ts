@@ -24,6 +24,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'nv权姐',
         link: '/imcwiki/article/ar传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'guisama传',
+        desc: '我要开了你的hu。',
+        link: '/imcwiki/article/ar传',
+      },
     ],
   },
 ]
