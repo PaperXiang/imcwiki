@@ -57,13 +57,13 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/g传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: '',
         title: 'CATLUMN传',
         desc: '你家px小学生认不清leaves和paper服务端？',
         link: '/imcwiki/article/g传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/120/apple/ios-5.1/1f605.png',
         title: 'P1919810传',
         desc: '哥们你写出来那个你就是神人',
         link: '/imcwiki/article/g传',
