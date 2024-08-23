@@ -68,6 +68,30 @@ export const NAV_DATA: NavData[] = [
         desc: '心态硬汉',
         link: '/imcwiki/article/g传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'xhgg传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'painter传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'hichocolin传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: '传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
     ],
   },
   {
@@ -96,6 +120,12 @@ export const NAV_DATA: NavData[] = [
         title: 'HrkII传',
         desc: '心态硬汉',
         link: '/imcwiki/article/hkrii传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'Z play mc传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
       },
     ],
   },
