@@ -15,6 +15,59 @@ export const NAV_DATA: NavData[] = [
         desc: '心态硬汉',
         link: '/imcwiki/article/gongmin传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'YOYOO JS传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+    ],
+  },
+  {
+    title: '一般乐子',
+    items: [
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'CCF_NOI传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'HKRII传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'ITER(SENMOSMZ)传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'WANA传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'JOKER2传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'CATLUMN传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'P1919810传',
+        desc: '心态硬汉',
+        link: '/imcwiki/article/g传',
+      },
     ],
   },
   {
