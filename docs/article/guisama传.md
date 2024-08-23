@@ -1,4 +1,6 @@
 # Guisama传记 - 强者无需多言
+
+
 ## 图片记录(有点乱，头像没加载出来😱)
 ![1](/guisama/1.png)
 ![2](/guisama/2.png)
@@ -25,6 +27,6 @@
 ![23](/guisama/23.png)
 ## 后续
 由于在IMC开挂魔怔，且在kkc对imc发表负面言论，gu1sa1_9均已封禁。
-IMC腐竹将事情经过转发至minebbs，后续被热心群友转发至simpfun交流群，mcsm交流群等诸多群聊
+IMC腐竹将事情经过转发至minebbs，后续被热心群友转发至simpfun交流群，mcsm交流群等诸多群聊，引起广泛讨论
 
 🦆:玩的就是全网封禁
