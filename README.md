@@ -1,13 +1,17 @@
-# IMC Unofficial Lezi-wiki
+# IMC 非官方 乐子wiki
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/89193024?v=4&size=1024" alt="home" />
 </p>
-<p align="center"> 有乐同享 </p>
-<p align='center'><a href="/guide.md">基础教程</a> | <a href="https://notes.fe-mm.com/">作者博客</a></p>
+<p align="center"> 俱往矣，数风流人物，还看IMC </p>
 
+![watch](https://badgen.net/github/watchers/PaperXiang/imcwiki)
+![stars](https://badgen.net/github/stars/PaperXiang/imcwiki)
+![code-size](https://img.shields.io/github/repo-size/PaperXiang/imcwiki)
 
-## 说明
+# 开始阅读
+
+# 说明
 
 前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 开发
 版权声明：<https://github.com/maomao1996/vitepress-nav-template>
