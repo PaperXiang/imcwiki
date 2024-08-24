@@ -12,7 +12,7 @@ export default defineConfig({
 
   lang: 'zh-CN',
   title: '乐子百科',
-  description: 'imc非官方乐子百科',
+  description: 'IMC非官方乐子百科',
   head,
 
   lastUpdated: true,
@@ -38,7 +38,7 @@ export default defineConfig({
       label: '目录',
     },
 
-    socialLinks: [{ icon: 'github', link: 'https://github.com/maomao1996/vitepress-nav-template' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/PaperXiang/imcwiki' }],
 
     footer: {
       message: 'https://github.com/PaperXiang/imcwiki',
