@@ -11,6 +11,10 @@
 
 # 开始阅读
 
+https://paperxiang.github.io/imcwiki
+
+![:imcwiki](https://count.kjchmc.cn/get/@:imcwiki)
+
 # 说明
 
 前端导航模块由 [茂茂 | maomao](https://github.com/maomao1996) 开发
