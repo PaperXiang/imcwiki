@@ -7,7 +7,7 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
-    title: 'gongmin家族',
+    title: '唐氏兄弟',
     items: [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
@@ -18,8 +18,8 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'YOYOO JS传',
-        desc: '我支持tai0du',
-        link: '/imcwiki/article/g传',
+        desc: '我支持gongmin',
+        link: '/imcwiki/article/gongmin传',
       },
     ],
   },
