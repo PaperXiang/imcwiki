@@ -41,7 +41,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'ITER(SENMOSMZ)传',
-        desc: '主播你服侵犯了知识产权，我要DDos你',
+        desc: '喊话:主播你服侵犯了知识产权，我要DDos你服务器🤬',
         link: '/imcwiki/article/iter传',
       },
       {
@@ -63,25 +63,25 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/g传',
       },
       {
-        icon: 'https://www.emojiall.com/images/120/apple/ios-5.1/1f605.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f643.png',
         title: 'P1919810传',
-        desc: '哥们你写出来那个你就是神人',
-        link: '/imcwiki/article/g传',
+        desc: '哥们你写出来那个玩法你就是神人',
+        link: '/imcwiki/article/p1919810传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/2b55.png',
         title: 'xhgg传',
         desc: '⭕的少了',
-        link: '/imcwiki/article/g传',
+        link: '/imcwiki/article/xhgg传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f631.png',
         title: 'painter传',
         desc: '乐子人啥时候退群？',
-        link: '/imcwiki/article/paintet传',
+        link: '/imcwiki/article/大学生传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f44a.png',
         title: 'hichocolin传',
         desc: 'eroslondusk我们一起开挂推翻他!',
         link: '/imcwiki/article/巧克林传',
