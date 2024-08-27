@@ -11,3 +11,10 @@
 ![](/others/gongmin传/6.png)
 ![](/others/gongmin传/7.png)
 ![](/others/gongmin传/8.png)
+
+# 地址
+正义人士Maniubi21成功将其地址找出
+
+***江苏省南京市玄武区北京东路 41 号***
+
+欢迎大家来这个地址月抛

@@ -46,8 +46,8 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'WANA传',
-        desc: '职业一般乐子',
+        title: 'wana传',
+        desc: '还是PCL大神',
         link: '/imcwiki/article/wana传',
       },
       {
