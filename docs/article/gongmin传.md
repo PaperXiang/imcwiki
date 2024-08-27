@@ -16,10 +16,15 @@ gongmin早期事迹已失传,如有人保存请联系Solitude_
 ![](/others/gongmin传/2.png)
 
 ![](/others/gongmin传/3.png)
+
 ![](/others/gongmin传/4.png)
+
 ![](/others/gongmin传/5.png)
+
 ![](/others/gongmin传/6.png)
+
 ![](/others/gongmin传/7.png)
+
 ![](/others/gongmin传/8.png)
 
 # 地址
