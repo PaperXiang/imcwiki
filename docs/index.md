@@ -5,10 +5,10 @@ layoutClass: 'm-home-layout'
 hero:
   name: IMC的
   text: 非官方乐子 Wiki
-  tagline: IMC千古风流人物，皆在此Wiki
+  tagline: 俱往矣，数风流人物，还看IMC
   image:
     src: /imc.png
-    alt: IMC群头像
+    alt: IMC
   actions:
     - text: Leziwiki
       link: https://paperxiang.github.io/imcwiki
@@ -20,7 +20,12 @@ features:
     title: gongmin家族
     details: 刚出炉的乐子
     link: https://paperxiang.github.io/imcwiki/article/gongmin传
-    linkText: 111
+    linkText: 唐氏兄弟
+  - icon: 😋
+    title: Arvuelut传
+    details: 喜欢打拳
+    link: https://paperxiang.github.io/imcwiki/article/arvuelut传
+    linkText: Arvuelut
 ---
 
 <style>
