@@ -25,5 +25,25 @@
 
 他的历史将永远存放在群相册，他的言论永远铭记在每个imc聊天群玩家的心里
 
-# 图片整理
+# 图片整理(早期热心玩家教导弱智珍贵图片)
+
+![](others/wana传/1.png)
+
+![](others/wana传/2.png)
+
+![](others/wana传/3.png)
+
+![](others/wana传/4.png)
+
+![](others/wana传/5.png)
+
+![](others/wana传/6.png)
+
+![](others/wana传/7.png)
+
+![](others/wana传/8.png)
+
+![](others/wana传/9.png)
+
+![](others/wana传/10.png)
 
