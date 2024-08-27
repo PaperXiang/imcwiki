@@ -8,7 +8,10 @@
 
 *wana: forge 是挂吗*
 
+![forge是挂吗](/others/wana传/forge.png)
+
 即使大家还是很耐心的教学，但不禁让我们怀疑他的智力
+>mds_no3:他这弱智，不像装的.
 
 # 自爆
 
