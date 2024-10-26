@@ -28,6 +28,12 @@ export const NAV_DATA: NavData[] = [
     items: [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'LIN_ER传',
+        desc: '优越的云电脑使用者',
+        link: '/imcwiki/article/LIN_ER传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'CCF_NOI传',
         desc: 'px咋还没死妈啊？',
         link: '/imcwiki/article/ccfnoi传',

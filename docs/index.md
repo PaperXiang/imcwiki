@@ -18,14 +18,19 @@ hero:
 features:
   - icon: 📖
     title: gongmin家族
-    details: 刚出炉的乐子
+    details: 绝世唐门
     link: https://paperxiang.github.io/imcwiki/article/gongmin传
     linkText: 唐氏兄弟
   - icon: 😋
     title: Arvuelut传
-    details: 喜欢打拳
+    details: 喜欢打拳的猪头肉
     link: https://paperxiang.github.io/imcwiki/article/arvuelut传
     linkText: Arvuelut
+  - icon: 😱
+    title: LIN_ER传
+    details: 优越的云电脑使用者
+    link: https://paperxiang.github.io/imcwiki/article/LIN_ER传
+    linkText: LIN_ER
 ---
 
 <style>
