@@ -15,11 +15,28 @@
 
 # 开服专业佬
 
+## NPC
+
+![](/others/LINER/npc.png)
+属于是 Citizens 大蛇了
+
+## 管理团队
+
+![](/others/LINER/donate.png)
+
 ## 服务器状态
 
 ![](/others/LINER/nb.png)
 
 # 攻击
+
+2024.10.26 liner 开启了他的囚禁服
+其高调作风引起多人不满
+于是 Allose 与我使用*EndMinecraftPlusV2*对其进行假人攻击
+(用处不大)
+![666awa的截图](/others/LINER/bot.png)
+
+## 和你有仇吗
 
 ![](/others/LINER/1.png)
 ![](/others/LINER/2.png)
