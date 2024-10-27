@@ -10,8 +10,8 @@ hero:
     src: /imc.png
     alt: IMC
   actions:
-    - text: Leziwiki
-      link: https://paperxiang.github.io/imcwiki
+    - text: IMC群
+      link: 799497706
     - text: 乐子导航
       link: /nav/
       theme: alt

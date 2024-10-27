@@ -51,12 +51,18 @@
 2024.10.26 liner 开启了他的囚禁服
 其高调作风引起多人不满
 于是 Allose 与我使用*EndMinecraftPlusV2*对其进行假人攻击
-(用处不大)
+
 ![666awa的截图](/others/LINER/bot.png)
+
+## 还挺聪明
+
+![666awa的截图](/others/LINER/highiq.png)
+![666awa的截图](/others/LINER/smart.png)
 
 ## 和你有仇吗
 
 ![](/others/LINER/1.png)
+
 ![](/others/LINER/2.png)
 
 ## 我本来就是乐子

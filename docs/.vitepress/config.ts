@@ -11,7 +11,7 @@ export default defineConfig({
   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
 
   lang: 'zh-CN',
-  title: 'IMC-Lezi-wiki',
+  title: 'IMC乐子百科',
   description: 'IMC非官方乐子百科',
   head,
 
