@@ -11,7 +11,7 @@ hero:
     alt: IMC
   actions:
     - text: IMC群
-      link: 799497706
+      link: https://paperxiang.github.io/imcwiki
     - text: 乐子导航
       link: /nav/
       theme: alt
