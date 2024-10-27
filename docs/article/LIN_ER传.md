@@ -37,6 +37,32 @@
 超绝唐儿管理  
 ![](/others/LINER/donate.png)
 
+### TIE296
+
+**_无需多言，自己看吧_**
+
+**高级技术人员**
+
+![](/others/LINER/tie1.png)
+
+![](/others/LINER/tie2.png)
+
+![](/others/LINER/tie3.png)
+
+![](/others/LINER/tie4.png)
+
+![](/others/LINER/tie5.png)
+
+![](/others/LINER/tie6.png)
+
+![](/others/LINER/tie7.png)
+
+![](/others/LINER/tie8.png)
+
+![](/others/LINER/tie9.png)
+
+![](/others/LINER/tie10.png)
+
 ## 服务器状态
 
 ![](/others/LINER/nb.png)
