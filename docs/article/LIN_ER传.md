@@ -18,10 +18,12 @@
 ## NPC
 
 ![](/others/LINER/npc.png)
-属于是 Citizens 大蛇了
+属于是 Citizens 大蛇 😰  
+`/npc create`能做到也是超出唐儿能力范围了
 
 ## 管理团队
 
+超绝唐儿管理  
 ![](/others/LINER/donate.png)
 
 ## 服务器状态
@@ -44,6 +46,10 @@
 ## 我本来就是乐子
 
 ![](/others/LINER/3.png)
+
+## 我承认
+
+![](/others/LINER/承认.png)
 
 # 番外
 
