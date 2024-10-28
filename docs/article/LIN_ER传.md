@@ -155,7 +155,9 @@ LIN_ER 靠财主买下囚禁生存服务端
 _Alllose_ 大手子在得知此乐后光速开户  
 以下为 LIN_ER 抚琴信息
 
-![](/others/LINER/杨福田.png)
+![杨*田](/others/LINER/杨福田.png)
+
+![](/others/LINER/huji.png)
 
 ## 番外
 
