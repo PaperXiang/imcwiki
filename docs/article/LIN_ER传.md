@@ -55,8 +55,9 @@ LIN_ER 靠财主买下囚禁生存服务端
 - /money set xxx 100000000
 - tnt 炸图
 
-各种小学生行径体现其服务器管理经验的匮乏  
+各种小学生行径体现其服务器管理经验的匮乏
 且多次因违规操作被封，导致跑路 😱😱😱
+消愁行径为 IMC 群友增添几分难得的乐趣
 
 ## 开服专业佬
 
@@ -110,9 +111,14 @@ LIN_ER 靠财主买下囚禁生存服务端
 
 2024.10.26 铃儿 开启了他的囚禁服
 
-其高调作风引起多人不满
+其高调作风引起`IHBT`内多人不满
 
-于是 Allose 与我使用`EndMinecraftPlusV2`对其进行假人攻击
+于是在 _Allose_ 的组织下，我与 _wbzdzmqv_ , _p1919810_ , _summer_liyin_ 使用`EndMinecraftPlusV2`对其进行假人攻击
+
+::: tip EndMinecraftPlusV2
+项目地址: [github](https://github.com/SerendipityR-2022/EndMinecraftPlusV2)
+假人压测工具
+:::
 
 ![666awa的截图](/others/LINER/bot.png)
 
@@ -120,6 +126,8 @@ LIN_ER 靠财主买下囚禁生存服务端
 
 ![666awa的截图](/others/LINER/highiq.png)
 ![666awa的截图](/others/LINER/smart.png)
+
+## 后续
 
 ### 和你有仇吗
 
@@ -134,6 +142,20 @@ LIN_ER 靠财主买下囚禁生存服务端
 ### 我承认
 
 ![](/others/LINER/承认.png)
+
+### 欣欣用户
+
+图片来自 _INK_qwp_  
+![](/others/LINER/h1.png)
+
+![](/others/LINER/h2.png)
+
+### 大头
+
+_Alllose_ 大手子在得知此乐后光速开户  
+以下为 LIN_ER 抚琴信息
+
+![](/others/LINER/杨福田.png)
 
 ## 番外
 
