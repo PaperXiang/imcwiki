@@ -10,7 +10,7 @@ hero:
     src: /imc.png
     alt: IMC
   actions:
-    - text: 乐子导航
+    - text: 开始阅读
       link: /nav/
     - text: IMC群
       link: https://paperxiang.github.io/imcwiki
