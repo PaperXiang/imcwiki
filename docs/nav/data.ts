@@ -27,13 +27,13 @@ export const NAV_DATA: NavData[] = [
     title: '白龙后人',
     items: [
       {
-        icon: 'https://www.emojiall.com/images/60/apple/1f923.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f612.png',
         title: '白龙传',
         desc: '我真没错啊',
         link: '/imcwiki/article/WhiteDragon传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f644.png',
         title: 'JoBroJo传',
         desc: '778',
         link: '/imcwiki/article/jobrojo传',
@@ -68,7 +68,7 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/iter传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f632.png',
         title: 'wana传',
         desc: '还是PCL大神',
         link: '/imcwiki/article/wana传',
@@ -92,7 +92,7 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/painter传',
       },
       {
-        icon: 'https://www.emojiall.com/images/60/apple/1f44a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f621.png',
         title: 'hichocolin传',
         desc: 'Eroslon_Dusk谁啊？配当管理吗？大伙跟我推翻它！',
         link: '/imcwiki/article/巧克林传',
@@ -110,7 +110,7 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/g传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f608.png',
         title: 'blaze传',
         desc: '服务器爆破专家',
         link: '/imcwiki/article/g传',
@@ -133,7 +133,7 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/ar传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f60e.png',
         title: 'guisama传',
         desc: '我可是喷系t0',
         link: '/imcwiki/article/guisama传',
@@ -151,7 +151,7 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/hkrii传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f913.png',
         title: 'Z_play_MC传',
         desc: '26岁玉玉大学生 - 周建阳',
         link: '/imcwiki/article/大学生传',
