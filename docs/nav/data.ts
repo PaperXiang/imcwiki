@@ -116,7 +116,7 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/g传',
       },
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f92d.png',
         title: '121230传',
         desc: '-真不是我炸你服。   -是我',
         link: '/imcwiki/article/g传',
@@ -127,7 +127,7 @@ export const NAV_DATA: NavData[] = [
     title: '逆天乐子',
     items: [
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f437.png',
         title: 'Arvuelut传',
         desc: '猪头肉无需多言',
         link: '/imcwiki/article/ar传',
