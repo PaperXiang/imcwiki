@@ -27,7 +27,7 @@ export const NAV_DATA: NavData[] = [
     title: '白龙后人',
     items: [
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f923.png',
         title: '白龙传',
         desc: '我真没错啊',
         link: '/imcwiki/article/WhiteDragon传',
@@ -50,7 +50,7 @@ export const NAV_DATA: NavData[] = [
     title: '一般乐子',
     items: [
       {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        icon: 'https://www.emojiall.com/images/60/apple/1f928.png',
         title: 'LIN_ER传',
         desc: '优越的云电脑使用者',
         link: '/imcwiki/article/LIN_ER传',
@@ -80,7 +80,7 @@ export const NAV_DATA: NavData[] = [
         link: '/imcwiki/article/g传',
       },
       {
-        icon: '',
+        icon: 'https://www.emojiall.com/images/60/apple/1f92a.png',
         title: 'CATLUMN传',
         desc: '你家Paper小学生认不清leaves和paper服务端？',
         link: '/imcwiki/article/g传',
