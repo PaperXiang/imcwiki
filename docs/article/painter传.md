@@ -16,7 +16,7 @@ Painter是囚禁服务器的忠实粉丝
 ![大学生](/others/painter传/4.png)   
 
 ## 我看得到隐身开自瞄
-![大学生](/others/others/painter传/5.png)  
+![大学生](/others/painter传/5.png)  
 ![大学生](/others/painter传/6.png)  
 ![大学生](/others/painter传/7.png)  
 ![大学生](/others/painter传/8.png)  
