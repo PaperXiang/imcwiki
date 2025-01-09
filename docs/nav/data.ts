@@ -41,13 +41,13 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'HKRII传',
-        desc: '我举报px开挂自认! -dodo帖',
+        desc: '2023最佳心态硬汉',
         link: '/imcwiki/article/hkrii传',
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'ITER(SENMOSMZ)传',
-        desc: '喊话:主播你服侵犯了知识产权，我要DDos你服务器🤬',
+        desc: '喊话:主播你服侵犯了知识产权，我要BBox你服务器🤬',
         link: '/imcwiki/article/iter传',
       },
       {
@@ -65,14 +65,8 @@ export const NAV_DATA: NavData[] = [
       {
         icon: '',
         title: 'CATLUMN传',
-        desc: '你家px小学生认不清leaves和paper服务端？',
+        desc: '你家Paper小学生认不清leaves和paper服务端？',
         link: '/imcwiki/article/g传',
-      },
-      {
-        icon: 'https://www.emojiall.com/images/60/apple/1f643.png',
-        title: 'P1919810传',
-        desc: '哥们你写出来那个玩法你就是神人',
-        link: '/imcwiki/article/p1919810传',
       },
       {
         icon: 'https://www.emojiall.com/images/60/apple/2b55.png',
@@ -84,25 +78,19 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://www.emojiall.com/images/60/apple/1f631.png',
         title: 'painter传',
         desc: '乐子人啥时候退群？',
-        link: '/imcwiki/article/大学生传',
+        link: '/imcwiki/article/painter传',
       },
       {
         icon: 'https://www.emojiall.com/images/60/apple/1f44a.png',
         title: 'hichocolin传',
-        desc: 'eroslondusk我们一起开挂推翻他!',
+        desc: 'Eroslon_Dusk谁啊？配当管理吗？大伙跟我推翻它！',
         link: '/imcwiki/article/巧克林传',
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'superboy传',
-        desc: '哥们vape怎么用',
+        desc: '哥们vepa怎么用',
         link: '/imcwiki/article/superboy传',
-      },
-      {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'PaperXiang传',
-        desc: '最精彩',
-        link: '/imcwiki/article/px传',
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
@@ -112,8 +100,8 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'blazr传',
-        desc: 'real server boomer',
+        title: 'blaze传',
+        desc: '服务器爆破专家',
         link: '/imcwiki/article/g传',
       },
       {
@@ -124,9 +112,9 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'Liner传',
-        desc: 'xinxin使用者',
-        link: '/imcwiki/article/g传',
+        title: 'LIN_ER传',
+        desc: '欣欣客户端使用者&云电脑大神',
+        link: '/imcwiki/article/LIN_ER传',
       },
     ],
   },
