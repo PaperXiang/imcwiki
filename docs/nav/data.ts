@@ -70,23 +70,7 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'wana传',
-        desc: '还是PCL大神',  {
-          title: '唐氏兄弟',
-          items: [
-            {
-              icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-              title: 'gongmin正传',
-              desc: '心态硬汉',
-              link: '/imcwiki/article/gongmin传',
-            },
-            {
-              icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-              title: 'YOYOO JS传',
-              desc: '我支持gongmin',
-              link: '/imcwiki/article/gongmin传',
-            },
-          ],
-        },
+        desc: '还是PCL大神',
         link: '/imcwiki/article/wana传',
       },
       {
