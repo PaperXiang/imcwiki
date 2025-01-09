@@ -24,7 +24,30 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '一般乐子 【common】',
+    title: '白龙后人',
+    items: [
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: '白龙传',
+        desc: '我真没错啊',
+        link: '/imcwiki/article/WhiteDragon传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'JoBroJo传',
+        desc: '778',
+        link: '/imcwiki/article/jobrojo传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'Foursickles_传',
+        desc: '香肠使用者',
+        link: '/imcwiki/article/jobrojo传',
+      },
+    ],
+  },
+  {
+    title: '一般乐子',
     items: [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
@@ -40,12 +63,6 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'HKRII传',
-        desc: '2023最佳心态硬汉',
-        link: '/imcwiki/article/hkrii传',
-      },
-      {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'ITER(SENMOSMZ)传',
         desc: '喊话:主播你服侵犯了知识产权，我要BBox你服务器🤬',
         link: '/imcwiki/article/iter传',
@@ -53,7 +70,23 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'wana传',
-        desc: '还是PCL大神',
+        desc: '还是PCL大神',  {
+          title: '唐氏兄弟',
+          items: [
+            {
+              icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+              title: 'gongmin正传',
+              desc: '心态硬汉',
+              link: '/imcwiki/article/gongmin传',
+            },
+            {
+              icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+              title: 'YOYOO JS传',
+              desc: '我支持gongmin',
+              link: '/imcwiki/article/gongmin传',
+            },
+          ],
+        },
         link: '/imcwiki/article/wana传',
       },
       {
@@ -67,12 +100,6 @@ export const NAV_DATA: NavData[] = [
         title: 'CATLUMN传',
         desc: '你家Paper小学生认不清leaves和paper服务端？',
         link: '/imcwiki/article/g传',
-      },
-      {
-        icon: 'https://www.emojiall.com/images/60/apple/2b55.png',
-        title: 'xhgg传',
-        desc: '⭕的少了',
-        link: '/imcwiki/article/xhgg传',
       },
       {
         icon: 'https://www.emojiall.com/images/60/apple/1f631.png',
@@ -110,12 +137,6 @@ export const NAV_DATA: NavData[] = [
         desc: '-真不是我炸你服。   -是我',
         link: '/imcwiki/article/g传',
       },
-      {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'LIN_ER传',
-        desc: '欣欣客户端使用者&云电脑大神',
-        link: '/imcwiki/article/LIN_ER传',
-      },
     ],
   },
   {
@@ -124,19 +145,19 @@ export const NAV_DATA: NavData[] = [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'Arvuelut传',
-        desc: 'nv权姐 - 猪头肉',
+        desc: '猪头肉无需多言',
         link: '/imcwiki/article/ar传',
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'guisama传',
-        desc: '我要开了你的hu。',
+        desc: '我可是喷系t0',
         link: '/imcwiki/article/guisama传',
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'Shadow_javis传',
-        desc: 'DDoS BOSS',
+        desc: 'DDoS BOSS -xhGG',
         link: '/imcwiki/article/赵子豪传',
       },
       {
@@ -147,8 +168,8 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'Z play mc传',
-        desc: '26岁玉玉大学生 - 赛博死亡',
+        title: 'Z_play_MC传',
+        desc: '26岁玉玉大学生 - 周建阳',
         link: '/imcwiki/article/大学生传',
       },
     ],
