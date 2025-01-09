@@ -24,7 +24,7 @@ features:
   - icon: 😋
     title: Arvuelut传
     details: 喜欢打拳的猪头肉
-    link: https://paperxiang.github.io/imcwiki/article/arvuelut传
+    link: https://paperxiang.github.io/imcwiki/article/ar传
     linkText: Arvuelut
   - icon: 😱
     title: LIN_ER传
