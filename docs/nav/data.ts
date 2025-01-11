@@ -47,7 +47,7 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '一般乐子',
+    title: '囚禁乐子',
     items: [
       {
         icon: 'https://www.emojiall.com/images/60/apple/1f928.png',
@@ -55,6 +55,23 @@ export const NAV_DATA: NavData[] = [
         desc: '优越的云电脑使用者',
         link: '/imcwiki/article/LIN_ER传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/apple/1f644.png',
+        title: '872TNT传',
+        desc: '欢使用者',
+        link: '/imcwiki/article/872tnt传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'painter传',
+        desc: 'iq',
+        link: '/imcwiki/article/painter传',
+      },
+    ],
+  },
+  {
+    title: '一般乐子',
+    items: [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'CCF_NOI传',
@@ -84,12 +101,6 @@ export const NAV_DATA: NavData[] = [
         title: 'CATLUMN传',
         desc: '你家Paper小学生认不清leaves和paper服务端？',
         link: '/imcwiki/article/g传',
-      },
-      {
-        icon: 'https://www.emojiall.com/images/60/apple/1f631.png',
-        title: 'painter传',
-        desc: '乐子人啥时候退群？',
-        link: '/imcwiki/article/painter传',
       },
       {
         icon: 'https://www.emojiall.com/images/60/apple/1f621.png',
