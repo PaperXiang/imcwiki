@@ -1,5 +1,8 @@
 # 欢迎阅读Foursickles传
 自己看吧
+## 事后鞭尸
+![](/others/foursickles/fs.png)
+![](/others/foursickles/fs2.png)
 ## IMC 复活（新生化）
 图片由`Jobrojo`整理  
 ![](/others/foursickles/1.png)
