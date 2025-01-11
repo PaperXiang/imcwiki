@@ -30,7 +30,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://www.emojiall.com/images/60/apple/1f612.png',
         title: '白龙传',
         desc: '我真没错啊',
-        link: '/imcwiki/article/WhiteDragon传',
+        link: '/imcwiki/article/白龙传',
       },
       {
         icon: 'https://www.emojiall.com/images/60/apple/1f644.png',
