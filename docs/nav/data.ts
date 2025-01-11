@@ -42,7 +42,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'Foursickles_传',
         desc: '香肠使用者',
-        link: '/imcwiki/article/jobrojo传',
+        link: '/imcwiki/article/foursickles传',
       },
     ],
   },
