@@ -67,6 +67,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'iq',
         link: '/imcwiki/article/painter传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'xiaokeai3传',
+        desc: 'iq',
+        link: '/imcwiki/article/小可爱传',
+      },
     ],
   },
   {
@@ -104,7 +110,7 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://www.emojiall.com/images/60/apple/1f621.png',
-        title: 'hichocolin传',
+        title: 'Hi_Chocolin传',
         desc: 'Eroslon_Dusk谁啊？配当管理吗？大伙跟我推翻它！',
         link: '/imcwiki/article/巧克林传',
       },
@@ -131,6 +137,12 @@ export const NAV_DATA: NavData[] = [
         title: '121230传',
         desc: '-真不是我炸你服。   -是我',
         link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/60/apple/1f92d.png',
+        title: 'Spirit_Snow(天山苍雪)传',
+        desc: '猪头肉老公',
+        link: '/imcwiki/article/天山苍雪传',
       },
     ],
   },
