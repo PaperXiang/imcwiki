@@ -44,6 +44,12 @@ export const NAV_DATA: NavData[] = [
         desc: '香肠使用者',
         link: '/imcwiki/article/foursickles传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: '111传',
+        desc: '复读机',
+        link: '/imcwiki/article/111传',
+      },
     ],
   },
   {
