@@ -144,6 +144,12 @@ export const NAV_DATA: NavData[] = [
         desc: '猪头肉老公',
         link: '/imcwiki/article/天山苍雪传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/apple/1f92d.png',
+        title: 'OF_DeevYeeish822传',
+        desc: '猪头肉老公',
+        link: '/imcwiki/article/OF_DeevYeeish822传',
+      },
     ],
   },
   {
