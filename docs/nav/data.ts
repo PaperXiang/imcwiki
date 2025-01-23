@@ -111,6 +111,29 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
+    title: '开服乐子',
+    items: [
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'ITER(SENMOSMZ)传',
+        desc: '喊话:主播你服侵犯了知识产权，我要BBox你服务器🤬',
+        link: '/imcwiki/article/iter传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/60/apple/1f92a.png',
+        title: 'CATLUMN传',
+        desc: '你家Paper小学生认不清leaves和paper端？',
+        link: '/imcwiki/article/g传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'Shadow_javis传',
+        desc: 'DDoS BOSS -xhGG',
+        link: '/imcwiki/article/赵子豪传',
+      },
+    ],
+  },
+  {
     title: '一般乐子',
     items: [
       {
@@ -121,9 +144,9 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'ITER(SENMOSMZ)传',
-        desc: '喊话:主播你服侵犯了知识产权，我要BBox你服务器🤬',
-        link: '/imcwiki/article/iter传',
+        title: 'XIZE & LIXF传',
+        desc: '逆天协管',
+        link: '/imcwiki/article/xize传',
       },
       {
         icon: 'https://www.emojiall.com/images/60/apple/1f632.png',
@@ -137,12 +160,7 @@ export const NAV_DATA: NavData[] = [
         desc: '你们全私募了',
         link: '/imcwiki/article/g传',
       },
-      {
-        icon: 'https://www.emojiall.com/images/60/apple/1f92a.png',
-        title: 'CATLUMN传',
-        desc: '你家Paper小学生认不清leaves和paper服务端？',
-        link: '/imcwiki/article/g传',
-      },
+
       {
         icon: 'https://www.emojiall.com/images/60/apple/1f621.png',
         title: 'Hi_Chocolin传',
@@ -179,6 +197,12 @@ export const NAV_DATA: NavData[] = [
         desc: 'lj',
         link: '/imcwiki/article/OF_DeevYeeish822传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/apple/1f92d.png',
+        title: 'htdn2传',
+        desc: '你会拉配置吗老弟',
+        link: '/imcwiki/article/htdn2传',
+      },
     ],
   },
   {
@@ -190,12 +214,7 @@ export const NAV_DATA: NavData[] = [
         desc: '我可是喷系t0',
         link: '/imcwiki/article/guisama传',
       },
-      {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'Shadow_javis传',
-        desc: 'DDoS BOSS -xhGG',
-        link: '/imcwiki/article/赵子豪传',
-      },
+
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'HrkII传',
