@@ -8,7 +8,7 @@ import { NAV_DATA } from './data'
 </script>
 <style src="./index.scss"></style>
 
-# IMC 乐子导航
+# 其他乐子导航
 
 <MNavLinks v-for="{title, items} in NAV_DATA" :title="title" :items="items"/>
 
