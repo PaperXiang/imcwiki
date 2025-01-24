@@ -5,7 +5,7 @@ type NavData = {
   items: NavLink[]
 }
 
-export const NAV_DATA: NavData[] = [
+export const NAV_DATA: NavData2[] = [
   {
     title: '猪头肉的青蛙池子',
     items: [
