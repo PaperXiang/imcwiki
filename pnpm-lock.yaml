@@ -37,9 +37,6 @@ importers:
       cross-env:
         specifier: ^7.0.3
         version: 7.0.3
-      husky:
-        specifier: ^8.0.3
-        version: 8.0.3
       lint-staged:
         specifier: ^13.3.0
         version: 13.3.0
@@ -389,11 +386,27 @@ packages:
     cpu: [arm]
     os: [android]
 
+  '@rollup/rollup-darwin-arm64@4.32.0':
+    resolution: {integrity: sha512-44n/X3lAlWsEY6vF8CzgCx+LQaoqWGN7TzUfbJDiTIOjJm4+L2Yq+r5a8ytQRGyPqgJDs3Rgyo8eVL7n9iW6AQ==}
+    cpu: [arm64]
+    os: [darwin]
+
+  '@rollup/rollup-darwin-x64@4.32.0':
+    resolution: {integrity: sha512-F9ct0+ZX5Np6+ZDztxiGCIvlCaW87HBdHcozUfsHnj1WCUTBUubAoanhHUfnUHZABlElyRikI0mgcw/qdEm2VQ==}
+    cpu: [x64]
+    os: [darwin]
+
   '@rollup/rollup-linux-x64-gnu@4.32.0':
     resolution: {integrity: sha512-VDzNHtLLI5s7xd/VubyS10mq6TxvZBp+4NRWoW+Hi3tgV05RtVm4qK99+dClwTN1McA6PHwob6DEJ6PlXbY83A==}
     cpu: [x64]
     os: [linux]
     libc: [glibc]
+
+  '@rollup/rollup-linux-x64-musl@4.32.0':
+    resolution: {integrity: sha512-qcb9qYDlkxz9DxJo7SDhWxTWV1gFuwznjbTiov289pASxlfGbaOD54mgbs9+z94VwrXtKTu+2RqwlSTbiOqxGg==}
+    cpu: [x64]
+    os: [linux]
+    libc: [musl]
 
   '@shikijs/core@1.2.0':
     resolution: {integrity: sha512-OlFvx+nyr5C8zpcMBnSGir0YPD6K11uYhouqhNmm1qLiis4GA7SsGtu07r9gKS9omks8RtQqHrJL4S+lqWK01A==}
@@ -792,11 +805,6 @@ packages:
   human-signals@4.3.1:
     resolution: {integrity: sha512-nZXjEF2nbo7lIw3mgYjItAfgQXog3OjJogSbKa2CQIIvSGWcKgeJnQlNXip6NglNzYH45nSRiEVimMvYL8DDqQ==}
     engines: {node: '>=14.18.0'}
-
-  husky@8.0.3:
-    resolution: {integrity: sha512-+dQSyqPh4x1hlO1swXBiNb2HzTDN1I2IGLQx1GrBuiqFJfoMrnZWwVmatvSiO+Iz8fBUnf+lekwNo4c2LlXItg==}
-    engines: {node: '>=14'}
-    hasBin: true
 
   immutable@4.2.4:
     resolution: {integrity: sha512-WDxL3Hheb1JkRN3sQkyujNlL/xRjAo3rJtaU5xeufUauG66JdMr32bLj4gF+vWl84DIA3Zxw7tiAjneYzRRw+w==}
@@ -1711,7 +1719,16 @@ snapshots:
   '@rollup/rollup-android-arm-eabi@4.32.0':
     optional: true
 
+  '@rollup/rollup-darwin-arm64@4.32.0':
+    optional: true
+
+  '@rollup/rollup-darwin-x64@4.32.0':
+    optional: true
+
   '@rollup/rollup-linux-x64-gnu@4.32.0':
+    optional: true
+
+  '@rollup/rollup-linux-x64-musl@4.32.0':
     optional: true
 
   '@shikijs/core@1.2.0': {}
@@ -2128,8 +2145,6 @@ snapshots:
   hookable@5.5.3: {}
 
   human-signals@4.3.1: {}
-
-  husky@8.0.3: {}
 
   immutable@4.2.4: {}
 
@@ -2590,7 +2605,10 @@ snapshots:
       '@types/estree': 1.0.6
     optionalDependencies:
       '@rollup/rollup-android-arm-eabi': 4.32.0
+      '@rollup/rollup-darwin-arm64': 4.32.0
+      '@rollup/rollup-darwin-x64': 4.32.0
       '@rollup/rollup-linux-x64-gnu': 4.32.0
+      '@rollup/rollup-linux-x64-musl': 4.32.0
       fsevents: 2.3.3
 
   run-parallel@1.2.0:
