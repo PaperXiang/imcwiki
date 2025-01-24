@@ -37,6 +37,9 @@ importers:
       cross-env:
         specifier: ^7.0.3
         version: 7.0.3
+      husky:
+        specifier: ^9.1.7
+        version: 9.1.7
       lint-staged:
         specifier: ^13.3.0
         version: 13.3.0
@@ -407,6 +410,11 @@ packages:
     cpu: [x64]
     os: [linux]
     libc: [musl]
+
+  '@rollup/rollup-win32-x64-msvc@4.32.0':
+    resolution: {integrity: sha512-5hqO5S3PTEO2E5VjCePxv40gIgyS2KvO7E7/vvC/NbIW4SIRamkMr1hqj+5Y67fbBWv/bQLB6KelBQmXlyCjWA==}
+    cpu: [x64]
+    os: [win32]
 
   '@shikijs/core@1.2.0':
     resolution: {integrity: sha512-OlFvx+nyr5C8zpcMBnSGir0YPD6K11uYhouqhNmm1qLiis4GA7SsGtu07r9gKS9omks8RtQqHrJL4S+lqWK01A==}
@@ -805,6 +813,11 @@ packages:
   human-signals@4.3.1:
     resolution: {integrity: sha512-nZXjEF2nbo7lIw3mgYjItAfgQXog3OjJogSbKa2CQIIvSGWcKgeJnQlNXip6NglNzYH45nSRiEVimMvYL8DDqQ==}
     engines: {node: '>=14.18.0'}
+
+  husky@9.1.7:
+    resolution: {integrity: sha512-5gs5ytaNjBrh5Ow3zrvdUUY+0VxIuWVL4i9irt6friV+BqdCfmV11CQTWMiBYWHbXhco+J1kHfTOUkePhCDvMA==}
+    engines: {node: '>=18'}
+    hasBin: true
 
   immutable@4.2.4:
     resolution: {integrity: sha512-WDxL3Hheb1JkRN3sQkyujNlL/xRjAo3rJtaU5xeufUauG66JdMr32bLj4gF+vWl84DIA3Zxw7tiAjneYzRRw+w==}
@@ -1731,6 +1744,9 @@ snapshots:
   '@rollup/rollup-linux-x64-musl@4.32.0':
     optional: true
 
+  '@rollup/rollup-win32-x64-msvc@4.32.0':
+    optional: true
+
   '@shikijs/core@1.2.0': {}
 
   '@shikijs/transformers@1.2.0':
@@ -2145,6 +2161,8 @@ snapshots:
   hookable@5.5.3: {}
 
   human-signals@4.3.1: {}
+
+  husky@9.1.7: {}
 
   immutable@4.2.4: {}
 
@@ -2609,6 +2627,7 @@ snapshots:
       '@rollup/rollup-darwin-x64': 4.32.0
       '@rollup/rollup-linux-x64-gnu': 4.32.0
       '@rollup/rollup-linux-x64-musl': 4.32.0
+      '@rollup/rollup-win32-x64-msvc': 4.32.0
       fsevents: 2.3.3
 
   run-parallel@1.2.0:
