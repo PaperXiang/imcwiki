@@ -11,8 +11,8 @@ export default defineConfig({
   base: APP_BASE_PATH ? `/${APP_BASE_PATH}/` : '/',
 
   lang: 'zh-CN',
-  title: 'IMC乐子百科',
-  description: 'IMC非官方乐子百科',
+  title: 'IMC 乐子百科',
+  description: 'IMC 非官方乐子百科',
   head,
 
   lastUpdated: true,
