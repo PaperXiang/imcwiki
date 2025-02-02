@@ -3,84 +3,84 @@
 
 ## 嘿客
 这个旁路路由器 + 奶酪大手子 也是无敌了
-![1](/guisama/1.png)
+![1](/others/guisama/1.png)
 ### 嘿客bilibili脚本
-![15](/guisama/15.png)
+![15](/others/guisama/15.png)
 
-![16](/guisama/16.png)
+![16](/others/guisama/16.png)
 
-![17](/guisama/17.png)
+![17](/others/guisama/17.png)
 
 我估摸着他自己都看不到这串16进制代码什么意思
-![18](/guisama/18.png)
+![18](/others/guisama/18.png)
 
-![19](/guisama/19.png)
+![19](/others/guisama/19.png)
 ## 黑奴 + lsp滚刀
-![2](/guisama/2.png)
+![2](/others/guisama/2.png)
 
 ## 0 Day
-![3](/guisama/3.png)
+![3](/others/guisama/3.png)
 ## lsp重装了
-![4](/guisama/4.png)
+![4](/others/guisama/4.png)
 ## Win12源代码
 
 我累个win12
 
-![5](/guisama/5.png)
+![5](/others/guisama/5.png)
 
 ## 李艳
 
-![6](/guisama/6.png)
+![6](/others/guisama/6.png)
 
 ## 奶酪大手子急了
 
-![7](/guisama/7.png)
+![7](/others/guisama/7.png)
 
 ## 沙箱svip99
 
-![8](/guisama/8.png)
+![8](/others/guisama/8.png)
 
 ## boxing无脑ac
 
-![9](/guisama/9.png)
+![9](/others/guisama/9.png)
 
-![10](/guisama/10.png)
+![10](/others/guisama/10.png)
 
 ## 一群小号(gu1sa1-7)
 
-![11](/guisama/11.png)
+![11](/others/guisama/11.png)
 
-![12](/guisama/12.png)
+![12](/others/guisama/12.png)
 
-![13](/guisama/13.png)
+![13](/others/guisama/13.png)
 
 ## mxm转发
 
-![14](/guisama/14.png)
+![14](/others/guisama/14.png)
 
 ## 我有风格src.
 
-![20](/guisama/20.png)
+![20](/others/guisama/20.png)
 
 ## 喷系t0
 
-![21](/guisama/21.png)
+![21](/others/guisama/21.png)
 
 ## 轰炸机
 
-![22](/guisama/22.png)
+![22](/others/guisama/22.png)
 
 ## 无缘无故骂我
 
-![23](/guisama/23.png)
+![23](/others/guisama/23.png)
 
 ## 骂我还有脸了
 
-![25](/guisama/25.png)
+![25](/others/guisama/25.png)
 
 ## 自杀
 
-![26](/guisama/26.png)
+![26](/others/guisama/26.png)
 
 ## 后续
 
