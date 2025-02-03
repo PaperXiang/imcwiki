@@ -12,7 +12,7 @@ export default defineConfig({
 
   lang: 'zh-CN',
   title: 'IMC 乐子百科',
-  description: 'IMC 非官方乐子百科',
+  description: 'IMC 名人堂',
   head,
 
   lastUpdated: true,

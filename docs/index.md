@@ -3,8 +3,8 @@ layout: home
 layoutClass: 'm-home-layout'
 
 hero:
-  name: IMC的
-  text: 非官方乐子 Wiki
+  name: IMC
+  text: 非官方乐子 Wiki (名人堂)
   tagline: 俱往矣，数风流人物，还看IMC
   image:
     src: /imc.png
@@ -12,24 +12,24 @@ hero:
   actions:
     - text: 开始阅读
       link: /nav/
-    - text: IMC群
-      link: https://paperxiang.github.io/imcwiki
+    - text: IMC 扣扣群
+      link: https://qm.qq.com/cgi-bin/qm/qr?k=IKqYD7RbcMxQitE4KPpoudgQ5HhaOsme&authKey=4KHmt%2FrXhuxXuscfVhsD8BN6AfNAKZjQ9Jv1RJMc3gHKgQdkw1FRP4CBwMWsRPj4&noverify=0&group_code=607355046
       theme: alt
 features:
   - icon: 📖
     title: gongmin家族
     details: 绝世唐门
-    link: https://paperxiang.github.io/imcwiki/article/gongmin传
+    link: /article/gongmin传
     linkText: 唐氏兄弟
   - icon: 😋
     title: Arvuelut传
     details: 喜欢打拳的猪头肉
-    link: https://paperxiang.github.io/imcwiki/article/ar传
+    link: /article/ar传
     linkText: Arvuelut
   - icon: 😱
     title: LIN_ER传
     details: 优越的云电脑使用者
-    link: https://paperxiang.github.io/imcwiki/article/LIN_ER传
+    link: /article/LIN_ER传
     linkText: LIN_ER
 ---
 
