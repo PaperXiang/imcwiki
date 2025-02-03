@@ -99,7 +99,7 @@ export const NAV_DATA: NavData[] = [
     ],
   },
   {
-    title: '一般乐子',
+    title: '短篇',
     items: [
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
@@ -168,10 +168,17 @@ export const NAV_DATA: NavData[] = [
         desc: '你会拉配置吗老弟',
         link: '/article/htdn2传',
       },
+      {
+        icon: 'https://www.emojiall.com/images/60/apple/1f92d.png',
+        title: 'import_imc传',
+        desc: '二级域名凌驾者',
+        link: '/article/import_imc传',
+      },
+
     ],
   },
   {
-    title: '逆天乐子',
+    title: '长篇',
     items: [
       {
         icon: 'https://www.emojiall.com/images/60/apple/1f60e.png',
