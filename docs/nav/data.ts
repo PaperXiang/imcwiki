@@ -88,7 +88,7 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://www.emojiall.com/images/60/apple/1f92a.png',
         title: 'CATLUMN传',
         desc: '你家Paper小学生认不清leaves和paper端？',
-        link: '/article/g传',
+        link: '/article/catlumn传',
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
