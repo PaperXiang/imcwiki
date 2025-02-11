@@ -23,12 +23,6 @@ export const NAV_DATA: NavData[] = [
       },
       {
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: 'JacoAquamarine',
-        desc: 'Suyue你是废物吗',
-        link: '/article/gongmin传',
-      },
-      {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'yeegeee',
         desc: '你就配捡垃圾吃了',
         link: '/article/gongmin传',
@@ -37,12 +31,6 @@ export const NAV_DATA: NavData[] = [
         icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
         title: 'JacoAquamarine',
         desc: 'Suyue你是废物吗',
-        link: '/article/gongmin传',
-      },
-      {
-        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
-        title: '_MegaMagikarp',
-        desc: '我没开',
         link: '/article/gongmin传',
       },
       {
