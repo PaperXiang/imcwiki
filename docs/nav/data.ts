@@ -7,6 +7,89 @@ type NavData = {
 
 export const NAV_DATA: NavData[] = [
   {
+    title: '生化乐子',
+    items: [
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'ZCY_18',
+        desc: 'AC哥',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'EasonTechno',
+        desc: '这是我小号',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'JacoAquamarine',
+        desc: 'Suyue你是废物吗',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'yeegeee',
+        desc: '你就配捡垃圾吃了',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'JacoAquamarine',
+        desc: 'Suyue你是废物吗',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: '_MegaMagikarp',
+        desc: '我没开',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'tr1sony',
+        desc: '我没开',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'gpm/gmd',
+        desc: '我没开',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'NightDecayed',
+        desc: '我关了鸭子你能不开吗',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'Gordon_6',
+        desc: '开了',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: '_MegaMagikarp',
+        desc: '我没开',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'yqdsb11514',
+        desc: 'autoquit',
+        link: '/article/gongmin传',
+      },
+      {
+        icon: 'https://www.emojiall.com/images/240/apple/1f97a.png',
+        title: 'Moelfa_Snow',
+        desc: '没开',
+        link: '/article/gongmin传',
+      },
+    ],
+  },
+  {
     title: '唐氏兄弟',
     items: [
       {
